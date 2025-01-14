@@ -76,18 +76,6 @@ Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
 
 </p>
 
-
-## 📊 Github Stats
-
-<details><summary><h3>🔥 Streak Stats</h3></summary>
-
-----	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Murad-Huseynli&theme=tokyonight_duo" alt="Murad-Huseynli" /></p>
-
-</details>
-
-
 ## 📊 Github Stats
 
 <details><summary><h3>🔥 Streak Stats</h3></summary>
