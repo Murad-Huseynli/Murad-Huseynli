@@ -24,7 +24,7 @@
 <p align="center">
     <a href="mailto:muradhuseynli@proton.me"><img src="https://img.shields.io/badge/protonmail-%238B89CC.svg?style=plastic&logo=protonmail&logoColor=white" alt="Proton Mail"/></a>
     <a href="https://www.linkedin.com/in/Murad-Huseynli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://www.instagram.com/muradhuseynli/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://www.instagram.com/murad.huseynli23/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 </p>
@@ -87,6 +87,16 @@ Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
 
 </details>
 
+
+## 📊 Github Stats
+
+<details><summary><h3>🔥 Streak Stats</h3></summary>
+
+----	
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Murad-Huseynli&theme=tokyonight_duo" alt="Murad-Huseynli" /></p>
+
+</details>
 
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
