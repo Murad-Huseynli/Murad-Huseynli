@@ -1,7 +1,7 @@
 # Hi, I'm Murad Huseynli <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Machine+Learning+Engineer;Computer+Science+Student+@ADA;Researcher+@CeDAR;Exchange+Student+@KAIST;Deep+Learning+Enthusiast;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Machine+Learning+Engineer;Computer+Science+Student+@ ADA;Junior Researcher+@ CeDAR;Exchange+Student+@ KAIST;Deep+Learning+Enthusiast;Always+learning+new+things"></a>
 </p>
 
 <br>
@@ -50,10 +50,23 @@
     <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=plastic&logo=huggingface&logoColor=black">
 </p>
 
+### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Knowledge_of_Models.gif?raw=true" width = 50px></picture> Knowledge of Models
+
+<p align="center">
+    <img alt="YOLOv8" src="https://img.shields.io/badge/YOLOv8-%23FF6F00.svg?style=plastic&logo=YOLO&logoColor=white">
+    <img alt="ResNet" src="https://img.shields.io/badge/ResNet-%23007396.svg?style=plastic&logo=DeepLearning&logoColor=white">
+    <img alt="CapsNet" src="https://img.shields.io/badge/CapsNet-%23F7931E.svg?style=plastic&logo=DeepLearning&logoColor=white">
+    <img alt="U-net" src="https://img.shields.io/badge/U--net-%23EE4C2C.svg?style=plastic&logo=DeepLearning&logoColor=white">
+    <img alt="FasterRCNN" src="https://img.shields.io/badge/FasterRCNN-%2314354C.svg?style=plastic&logo=DeepLearning&logoColor=white">
+    <img alt="BERT" src="https://img.shields.io/badge/BERT-%23FFD21E.svg?style=plastic&logo=DeepLearning&logoColor=black">
+    <img alt="Llama3" src="https://img.shields.io/badge/Llama3-%23FF6F00.svg?style=plastic&logo=DeepLearning&logoColor=white">
+    <img alt="GPT" src="https://img.shields.io/badge/GPT-%23FF6F00.svg?style=plastic&logo=DeepLearning&logoColor=white">
+</p>
+
 ### Languages
 
 <p align="center">
-    🇦🇿 Azerbaijani (Native) • 🇷🇺 Russian (Native) • 🇬🇧 English (Advanced) • 
+    🇷🇺 Russian (Native) • 🇬🇧 English (Advanced) • 🇦🇿 Azerbaijani (Advanced) • 
     🇹🇷 Turkish (Intermediate) • 🇯🇵 Japanese (Pre-Intermediate) • 🇰🇷 Korean (Elementary)
 </p>
 
@@ -61,20 +74,30 @@
 <p>
 
 ## 📝 Recent Projects
-### [ Using Dating Profiles to Predict Occupation: ](https://github.com/DataOnATangent/Representative_Profiles_Machine_Learning_Project)<br>
-Machine learning prediction model using logistic regression to predict a users observations using the various features used on their OKCupid dating profile. Data collected from OKCupid.com in the San Francisco Area.<br>
-Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn, Scipy
+### [Scene Recognition with Bag of Words Method](https://github.com/Murad-Huseynli/scene_recognition_with_bag_of_words)<br>
+Machine learning project implementing scene recognition into 15 categories using bag of words approach, combining HOG/SIFT features with SVM classification. Achieved 70.7% accuracy using spatial pyramid representation and RBF kernel optimization. Training performed on the 15-scene database.<br>
+Libraries Utilized: OpenCV, NumPy, scikit-learn, Matplotlib, SciPy
 
-### [ Kings County Housing Price Prediction: ](https://github.com/DataOnATangent/Kings_County_Seattle_Housing_Project)<br>
-Linear regression modeling for housing price prediction in King County, WA, USA, which is the greater Seattle Area. <br>
-Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn
+### [Stereo Vision and Image Rectification System](https://github.com/Murad-Huseynli/stereo_vision_image_rectification)<br>
+Computer vision project implementing comprehensive stereo image processing pipeline, from raw Bayer pattern through depth estimation. Features convolution-based interpolation, fundamental matrix computation, stereo rectification, and optimized disparity mapping using ZNCC. Achieves effective depth estimation with both box and bilateral filtering approaches.<br>
+Libraries Utilized: NumPy, OpenCV, Matplotlib, SciPy, tqdm
 
+### [Optimizing Llama 2 for Knowledge-Grounded Dialogue](https://github.com/Murad-Huseynli/knowledge_grounded_dialogue_system)<br>
+Research project focusing on efficient fine-tuning of Llama 2 for dialogue generation in resource-constrained environments. Achieves 99.5% model size reduction (12GB to 60MB) while maintaining performance using QLoRA and PEFT techniques. Evaluated on Wizard of Wikipedia dataset with 22,311 dialogues across 2,437 topics.<br>
+Libraries Utilized: PyTorch, Transformers, Accelerate, bitsandbytes, wandb, numpy, pandas
 
-### [ Yelp ETL Project Analysis: ](https://github.com/DataOnATangent/Yelp_API_ETL_Project)<br>
-EDA of Yelp API data for Flatiron School Data Science Immersive Program.<br>
-Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
-
+### [Language Modeling and Text Classification for Azerbaijani News](https://github.com/Murad-Huseynli/language_modeling_and_text_classification)<br>
+Natural language processing project implementing n-gram language models and text classification for Azerbaijani news content. Features various smoothing techniques (Laplace, Interpolation, Backoff, Kneser-Ney) and achieves 89% accuracy in subjectivity classification and 67% in sentiment analysis. Trained on custom dataset scraped from Azerbaijani Telegram news channels.<br>
+Libraries Utilized: NLTK, NumPy, Scikit-learn, Telethon, Custom NLP tools
 </p>
+
+### [Sequential Pattern Mining Algorithm Analysis](https://github.com/Murad-Huseynli/sequential_pattern_mining/blob/main/README.md)<br>
+Research project comparing performance of four sequential pattern mining algorithms (Brute Force, SPADE, PrefixSpan, SPAM) under varying dataset conditions. Analyzes time complexity relationships and demonstrates PrefixSpan's superior stability across test cases. Features custom implementations and comprehensive performance evaluation framework with randomly generated sequential datasets.<br>
+Libraries Utilized: Matplotlib, SPMF (reference)
+
+### [Azerbaijani News Text Processing System](https://github.com/Murad-Huseynli/azerbaijani_nlp_corpus_project)<br>
+Natural language processing project implementing comprehensive text processing pipeline for Azerbaijani news content from Telegram channels. Features Heaps Law analysis (k=0.0009, b=1.8585), Byte Pair Encoding for compound words, and weighted Levenshtein distance for spelling correction. Includes specialized handling for language-specific cases like compound names through custom tokenization and segmentation algorithms.<br>
+Libraries Utilized: Python Regex, JSON, Custom NLP tools
 
 ## 📊 Github Stats
 
