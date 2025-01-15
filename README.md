@@ -50,7 +50,7 @@
     <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=plastic&logo=huggingface&logoColor=black">
 </p>
 
-### <picture><img src="https://img.icons8.com/ios-filled/50/000000/deep-learning.png" width="50px"></picture> Knowledge of Models
+### <picture><https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true>" width="50px"></picture> Knowledge of Models
 
 <p align="center">
     <img alt="YOLOv8" src="https://img.shields.io/badge/YOLOv8-%23FF6F00.svg?style=plastic&logo=YOLO&logoColor=white">
