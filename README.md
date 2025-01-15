@@ -56,7 +56,7 @@
     <img alt="YOLOv8" src="https://img.shields.io/badge/YOLOv8-%23FF6F00.svg?style=plastic&logo=YOLO&logoColor=white">
     <img alt="ResNet" src="https://img.shields.io/badge/ResNet-%23007396.svg?style=plastic&logo=DeepLearning&logoColor=white">
     <img alt="CapsNet" src="https://img.shields.io/badge/CapsNet-%23F7931E.svg?style=plastic&logo=DeepLearning&logoColor=white">
-    <img alt="U-net" src="https://img.shields.io/badge/U--net-%23EE4C2C.svg?style=plastic&logo=DeepLearning&logoColor=white">
+    <img alt="U-net" src="https://img.shields.io/badge/U--Net-%23EE4C2C.svg?style=plastic&logo=DeepLearning&logoColor=white">
     <img alt="FasterRCNN" src="https://img.shields.io/badge/FasterRCNN-%2314354C.svg?style=plastic&logo=DeepLearning&logoColor=white">
     <img alt="BERT" src="https://img.shields.io/badge/BERT-%23FFD21E.svg?style=plastic&logo=DeepLearning&logoColor=black">
     <img alt="Llama3" src="https://img.shields.io/badge/Llama3-%23FF6F00.svg?style=plastic&logo=DeepLearning&logoColor=white">
