@@ -14,7 +14,7 @@
 - 🔬 Currently a `Junior Researcher` at [Center for Data Analytics and Research (CeDAR)]
 - 🌏 Completed an exchange semester at [KAIST](https://www.kaist.ac.kr) in South Korea
 - 🤖 Passionate about `Artificial Intelligence`, `Machine Learning`, `Deep Learning`, and `Computer Vision`
-- 🏆 Recipient of the prestigious `Lotfi Zadeh Scholarship`, `Dean's List of Distinction`, and `Global Korean Scholarship (GKS)`
+- 🏆 Recipient of the prestigious `Lotfi Zadeh Scholarship`, `Dean's List of Distinction`, and `Global Korea Scholarship (GKS)`
 - 📚 Currently researching state-of-the-art architectures such as `BERT`, `Llama-3`, `ResNets`, and `CapsNets`
 - 💻 Working on ML/DL projects in artifical intelligence, computer vision, and natural language processing
 - 🌱 Always `learning new things` and exploring cutting-edge technologies
