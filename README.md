@@ -74,6 +74,15 @@
 <p>
 
 ## 📝 Recent Projects
+### [SigortaHub](https://github.com/Murad-Huseynli/SigortaHub-InsuranceHub-)<br>
+A digital platform transforming the traditional car insurance claim and repair process in Azerbaijan. SigortaHub streamlines accident reporting, competitive repair bidding, and claim settlement, featuring a fully standalone iOS application and advanced AI-based damage assessment for automated repair cost estimation. Developed as an undergraduate thesis project, it integrates cutting-edge computer vision and deep learning technologies with a robust backend for seamless insurance integration.<br> Libraries Utilized: Django, SwiftUI, PostgreSQL, PyTorch, RESTful APIs
+
+### [VisionEye](https://github.com/Murad-Huseynli/VisionEye)<br>
+An AI-powered smart glasses project designed to empower visually impaired individuals by providing real-time environmental analysis and voice assistance. Utilizing advanced computer vision and machine learning algorithms, VisionEye detects objects, obstacles, and textures to deliver accessible, intuitive feedback through text-to-speech technology.<br> Libraries Utilized: OpenCV, PyTorch/TensorFlow, Google API
+
+### [Synergy](https://github.com/Murad-Huseynli/Synergy)<br>
+An AI-powered smart microgrid management system that optimizes renewable energy distribution by predicting energy demand with 97% accuracy. Synergy leverages deep learning, multivariate multiseasonal time series analysis, and IoT data analytics to minimize energy loss (approximately 10% in lithium-ion battery storage) and enhance grid efficiency through real-time energy redistribution.<br> Libraries Utilized: TensorFlow/PyTorch, scikit-learn, Django
+
 ### [Scene Recognition with Bag of Words Method](https://github.com/Murad-Huseynli/scene_recognition_with_bag_of_words)<br>
 Machine learning project implementing scene recognition into 15 categories using bag of words approach, combining HOG/SIFT features with SVM classification. Achieved 70.7% accuracy using spatial pyramid representation and RBF kernel optimization. Training performed on the 15-scene database.<br>
 Libraries Utilized: OpenCV, NumPy, scikit-learn, Matplotlib, SciPy
