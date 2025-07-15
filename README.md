@@ -11,7 +11,7 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 🎓 CSE @ [UMich](https://umich.edu) 
-- 🌏 Completed an exchange semester at [KAIST](https://www.kaist.ac.kr) in South Korea
+- 🌏 Completed an exchange semester @ [KAIST](https://www.kaist.ac.kr) in South Korea
 - 📚 Head Teaching Assistant @ AI Academy Azerbaijan
 - 🤖 Passionate about the intersection of `Multimodal AI`, `Reinforcement Learning`, and `Cognitive Science`
 - 🌱 Always `learning new things` and exploring cutting-edge technologies
