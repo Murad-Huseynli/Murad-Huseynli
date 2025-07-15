@@ -11,14 +11,9 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 🎓 CSE @ [UMich](https://umich.edu) 
-- 🔬 Currently a `Junior Researcher` at [Center for Data Analytics and Research (CeDAR)]
 - 🌏 Completed an exchange semester at [KAIST](https://www.kaist.ac.kr) in South Korea
-- 🤖 Passionate about `Artificial Intelligence`, `Machine Learning`, `Deep Learning`, and `Computer Vision`
-- 🏆 Recipient of the prestigious `Lotfi Zadeh Scholarship`, `Dean's List of Distinction`, and `Global Korea Scholarship (GKS)`
-- 📚 Currently researching state-of-the-art architectures such as `BERT`, `Llama-3`, `ResNets`, and `CapsNets`
-- 💻 Working on ML/DL projects in artifical intelligence, computer vision, and natural language processing
+- 🤖 Passionate about the intersection of `Multimodal AI`, `Reinforcement Learning`, and `Cognitive Science`
 - 🌱 Always `learning new things` and exploring cutting-edge technologies
-- 🎯 Open to new `research` and `job opportunities` in AI/ML
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> Connect with me
 <p align="center">
