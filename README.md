@@ -10,7 +10,7 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- 🎓 I am a `Senior` at [ADA University](https://ada.edu.az) studying Computer Science with a CGPA of 3.99/4.00
+- 🎓 CSE @ [UMich](https://umich.edu) 
 - 🔬 Currently a `Junior Researcher` at [Center for Data Analytics and Research (CeDAR)]
 - 🌏 Completed an exchange semester at [KAIST](https://www.kaist.ac.kr) in South Korea
 - 🤖 Passionate about `Artificial Intelligence`, `Machine Learning`, `Deep Learning`, and `Computer Vision`
