@@ -1,7 +1,7 @@
 # Hi, I'm Murad Huseynli <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Machine+Learning+Engineer;Computer+Science+Student+@ADA;Researcher+@CeDAR;Exchange+Student+@KAIST;Deep+Learning+Enthusiast;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Machine+Learning+Engineer;CSE+@UMich;Exchange+@KAIST;AGI/ASI+Enthusiast;Always+learning+new+things"></a>
 </p>
 
 <br>
